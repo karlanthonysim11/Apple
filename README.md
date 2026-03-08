@@ -1,2 +1,2 @@
 # Apple
-UI/UZ example for apple website
+UI/UX example for apple website
